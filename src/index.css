@@ -6,4 +6,6 @@ import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&displa
   padding: 0;
 };
 
-
+body {
+  font-family: 'Poppins', sans-serif;
+};
