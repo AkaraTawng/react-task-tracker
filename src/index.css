@@ -78,3 +78,8 @@ body {
 .form-control{
   margin: 20px;
 };
+
+.form-control label {
+  display: block;
+};
+
