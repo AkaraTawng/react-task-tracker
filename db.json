@@ -9,7 +9,7 @@
     {
       "text": "read book",
       "day": "thur ",
-      "reminder": false,
+      "reminder": true,
       "id": 2
     },
     {
