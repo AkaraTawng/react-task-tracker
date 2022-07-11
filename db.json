@@ -11,6 +11,12 @@
       "day": "thur ",
       "reminder": false,
       "id": 2
+    },
+    {
+      "text": "say hello ",
+      "day": "wed",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
